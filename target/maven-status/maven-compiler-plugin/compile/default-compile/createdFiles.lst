@@ -1,0 +1,9 @@
+com\sistemabancario\demand\controller\DemandController.class
+com\sistemabancario\demand\domain\Account.class
+com\sistemabancario\demand\domain\TransactionRecord.class
+com\sistemabancario\demand\Service\IDemandService.class
+com\sistemabancario\demand\repository\IDemandRepository.class
+com\sistemabancario\demand\util\Constants.class
+com\sistemabancario\demand\domain\Demand.class
+com\sistemabancario\demand\Service\impl\DemandService.class
+com\sistemabancario\demand\DemandApplication.class
